@@ -1,1 +1,1 @@
-# lessons_2023_lesson_1
+# GIS&RS_Lessons_2023
